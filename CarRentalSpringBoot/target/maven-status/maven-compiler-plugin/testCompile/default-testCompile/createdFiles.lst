@@ -1,0 +1,14 @@
+com\example\CarRentalSpringBoot\controller\InvoiceControllerTest.class
+com\example\CarRentalSpringBoot\service\InvoiceServiceTest.class
+com\example\CarRentalSpringBoot\service\ReservationServiceTest.class
+com\example\CarRentalSpringBoot\controller\ReservationControllerTest.class
+com\example\CarRentalSpringBoot\service\LocationServiceTest.class
+com\example\CarRentalSpringBoot\controller\LocationControllerTest.class
+com\example\CarRentalSpringBoot\controller\CarControllerTest.class
+com\example\CarRentalSpringBoot\service\CarServiceTest.class
+com\example\CarRentalSpringBoot\controller\PaymentControllerTest.class
+com\example\CarRentalSpringBoot\controller\UserControllerTest.class
+com\example\CarRentalSpringBoot\service\FeedbackServiceTest.class
+com\example\CarRentalSpringBoot\service\UserServiceTest.class
+com\example\CarRentalSpringBoot\controller\FeedbackControllerTest.class
+com\example\CarRentalSpringBoot\service\PaymentServiceTest.class
